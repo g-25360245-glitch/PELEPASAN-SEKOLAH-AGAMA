@@ -1,0 +1,5 @@
+{
+  "name": "Penjana Surat Pelepasan Sekolah Agama (SKSA)",
+  "description": "Aplikasi web untuk menjana surat pelepasan murid SK Sungai Abong ke Sekolah Agama dengan format rasmi dan keupayaan muat turun PDF.",
+  "requestFramePermissions": []
+}
