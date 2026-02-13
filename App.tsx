@@ -311,11 +311,8 @@ const App: React.FC = () => {
                   <div className="font-bold mb-6 text-[11pt]">“BERKHIDMAT UNTUK NEGARA”</div>
                   
                   Saya yang menjalankan amanah,<br /><br />
-                  <div className="relative mt-2">
-                    <div className="absolute bottom-[6px] left-[15px] w-24 h-14 pointer-events-none select-none">
-                      <img src="https://i.postimg.cc/ZRtpzWGV/TANDA-TANGAN-GB.png" alt="Signature" className="w-full h-full object-contain" crossOrigin="anonymous" />
-                    </div>
-                    ...........................................................
+                  <div className="mb-1 h-14">
+                    <img src="https://i.postimg.cc/ZRtpzWGV/TANDA-TANGAN-GB.png" alt="Signature" className="w-24 h-14 object-contain ml-4" crossOrigin="anonymous" />
                   </div>
                   <div className="font-bold uppercase mt-1 text-[11.5pt]">(SITI ZALEHA BINTI RAMLAN)</div>
                   <div className="leading-tight text-[11pt]">
