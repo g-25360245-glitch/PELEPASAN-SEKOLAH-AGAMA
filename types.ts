@@ -9,7 +9,8 @@ export interface LetterData {
   tarikh: string;
   namaSekAgama: string;
   namaProgram: string;
-  tarikhProgram: string;
+  tarikhProgramMula: string;
+  tarikhProgramTamat: string;
   hariProgram: string;
   students: Student[];
 }
